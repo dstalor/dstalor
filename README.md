@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/Daniel%20Tal--Or-0A66C2?logo=LinkedIn&style=social&label=LinkedIn)](https://www.linkedin.com/in/dstalor/)
 
 ## My Tools (Ordered roughly by usage/recency)
+![WebStorm](https://img.shields.io/badge/WebStorm-CDCDCD?logo=webstorm&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=Microsoft-Edge&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
