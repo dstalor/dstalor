@@ -1,9 +1,3 @@
-## Socials
-[![Twitter](https://img.shields.io/twitter/follow/dstalor?style=social&logo=twitter&labelColor=1DA1F2)](https://twitter.com/dstalor)
-[![Facebook](https://img.shields.io/badge/Daniel%20Tal--Or-1877F2?logo=Facebook&style=social&label=Facebook)](https://www.facebook.com/dstalor/)
-[![CodePen](https://img.shields.io/badge/@dstalor-000000?logo=CodePen&style=social&label=Codepen)](https://codepen.io/dstalor)
-[![LinkedIn](https://img.shields.io/badge/Daniel%20Tal--Or-0A66C2?logo=LinkedIn&style=social&label=LinkedIn)](https://www.linkedin.com/in/dstalor/)
-
 ## My Tools (Ordered roughly by usage/recency)
 ![WebStorm](https://img.shields.io/badge/WebStorm-CDCDCD?logo=webstorm&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
